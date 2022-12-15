@@ -41,8 +41,9 @@ These are a list of projects I am going to try out over the coming months:
 #[Author]
 Shukuri Takahiro
 
--Linkedin: https://www.linkedin.com/in/shukuri-takahiro-6657a61aa/
--Github: https://github.com/sk-takahiro
+- Linkedin: https://www.linkedin.com/in/shukuri-takahiro-6657a61aa/
+
+- Github: https://github.com/sk-takahiro
 
 
 ##[Acknowledgments]
